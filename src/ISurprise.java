@@ -1,0 +1,4 @@
+interface ISurprise {
+
+    void enjoy();
+}
